@@ -27,7 +27,7 @@ https://github.com/MisterTomLG/Weather-App/assets/121111137/b7f0f7e7-cdf0-487a-b
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/MisterTomLG/Weather-App.git
 ```
 
 Open with live server
